@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, node.js**
 
-- 👨‍💻 All of my projects are available at [https://bndnt.github.io/](https://bndnt.github.io/)
+- 👨‍💻 Ьy latest projects available at [https://bndnt.github.io/](https://bndnt.github.io/)
 
 - 📝 I regularly write articles on [https://www.instagram.com/qu.vlr/](https://www.instagram.com/qu.vlr/)
 
