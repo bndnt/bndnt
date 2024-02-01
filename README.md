@@ -7,8 +7,6 @@
 
 - 👨‍💻 My latest projects available at [https://bndnt.github.io/](https://bndnt.github.io/)
 
-- 📝 I regularly write articles on [https://www.instagram.com/qu.vlr/](https://www.instagram.com/qu.vlr/)
-
 - 💬 Ask me about **SCSS, Html,CSS, JS, GULP, JQuery,Git(obviously), AOS(animate on scroll), Bootstrap, Swiper.**
 
 - 📫 How to reach me **l.makushchenko@gmail.com**
