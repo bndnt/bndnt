@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valeriia</h1>
-<h3 align="center">Responsible, creative and conscientious front-end developer with 2+ years of experience from Ukraine..</h3>
+<h3 align="center">Responsible, creative and conscientious front-end developer with 2+ years of experience from Ukraine.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bndnt&label=Profile%20views&color=0e75b6&style=flat" alt="bndnt" /> </p>
 
