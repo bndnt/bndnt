@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bndnt&label=Profile%20views&color=0e75b6&style=flat" alt="bndnt" /> </p>
 
-- 🔭 I’m currently working on [WebStudio](https://bndnt.github.io/WebStudio/)
+- 🔭 I’m currently working on [watchcharm](https://psht13.github.io/project-group-20/)
 
 - 🌱 I’m currently learning **React.js, node.js**
 
