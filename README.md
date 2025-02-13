@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Valeriia</h1>
-<h3 align="center">Responsible, creative and conscientious front-end developer with 3+ years of experience from Ukraine.</h3>
+<h3 align="center">Responsible, creative and conscientious web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bndnt&label=Profile%20views&color=0e75b6&style=flat" alt="bndnt" /> </p>
 
-- 🔭 I’m currently working on [https://like.detmir.ru/](https://like.detmir.ru/)
 
-- 🌱 I’m currently learning **React.js, node.js**
 
 - 👨‍💻 My latest projects available at [https://bndnt.github.io/](https://bndnt.github.io/)
 
-- 💬 Ask me about **SCSS, Html,CSS, JS, GULP, JQuery,Git(obviously), AOS(animate on scroll), Bootstrap, Swiper.**
+- 💬 Ask me about **SCSS,REACT, Html,CSS, JS, GULP, JQuery,Git(obviously), AOS(animate on scroll), Bootstrap, Swiper.**
 
 - 📫 How to reach me **l.makushchenko@gmail.com**
 
